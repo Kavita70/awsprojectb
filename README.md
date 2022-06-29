@@ -1,2 +1,1 @@
-# awsprojectb
-new
+# e2e_application
